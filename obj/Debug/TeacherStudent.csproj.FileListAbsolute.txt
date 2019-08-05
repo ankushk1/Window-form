@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\PAT2\TeacherStudent\obj\Debug\TeacherStudent.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\PAT2\TeacherStudent\obj\Debug\TeacherStudent.Properties.Resources.resources
+C:\Users\hp\source\repos\PAT2\TeacherStudent\obj\Debug\TeacherStudent.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\PAT2\TeacherStudent\obj\Debug\TeacherStudent.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\PAT2\TeacherStudent\bin\Debug\TeacherStudent.exe.config
+C:\Users\hp\source\repos\PAT2\TeacherStudent\bin\Debug\TeacherStudent.exe
+C:\Users\hp\source\repos\PAT2\TeacherStudent\bin\Debug\TeacherStudent.pdb
+C:\Users\hp\source\repos\PAT2\TeacherStudent\obj\Debug\TeacherStudent.exe
+C:\Users\hp\source\repos\PAT2\TeacherStudent\obj\Debug\TeacherStudent.pdb
+C:\Users\hp\source\repos\PAT2\TeacherStudent\obj\Debug\TeacherStudent.TeacherDetails.resources
+C:\Users\hp\source\repos\PAT2\TeacherStudent\obj\Debug\TeacherStudent.Tabs.resources
+C:\Users\hp\source\repos\PAT2\TeacherStudent\obj\Debug\TeacherStudent.frmAddStudentDetails.resources
